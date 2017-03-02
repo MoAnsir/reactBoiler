@@ -35,12 +35,12 @@ This will install all the stuff you need to run the project
  
 To run the project locally use the following commands in the project directory 
  
-This will build our site 
+This will build the site 
 ``` 
 webpack 
 ``` 
  
-This will watch for changes and rebuild our site 
+This will watch for changes and rebuild the site 
 ``` 
 webpack --watch 
 ``` 
