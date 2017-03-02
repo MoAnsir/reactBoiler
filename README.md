@@ -1,7 +1,7 @@
 
-# Profile CV 
+# React boiler plate
  
-This is my reactjs starting template. IT will start you off with react, babel, webpack and the dev-server.
+This is my reactjs starting template. It will start you off with react, babel, webpack and the dev-server.
  
 ## Getting Started 
  
